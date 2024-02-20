@@ -4,4 +4,4 @@
 
 ### Additional Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,vim,html,css,powershell,py,raspberrypi,stackoverflow,sketchup&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,vim,html,css,powershell,py,raspberrypi,sketchup&perline=10)](https://skillicons.dev)
