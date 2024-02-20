@@ -1,3 +1,7 @@
-### Skills :
+### Core Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,css,discord,git,github,html,linux,powershell,py,raspberrypi,stackoverflow,sketchup,vim,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ansible,aws,bash&perline=10)](https://skillicons.dev)
+
+### Additional Skills :
+
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,vim,html,css,powershell,py,raspberrypi,stackoverflow,sketchup&perline=10)](https://skillicons.dev)
