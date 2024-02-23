@@ -29,6 +29,8 @@
   <a href="#"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=IFTTT&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-McAfee-%23C01818?style=for-the-badge&logo=mcafee&logoColor=white"></a>
 </p>
 
 ### Operating Systems :
