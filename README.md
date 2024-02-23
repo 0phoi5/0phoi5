@@ -73,7 +73,7 @@
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label="></a>
 </p>
 
-### Support Me :
+### Support Me (clickable) :
 <p>
   <a href="https://www.buymeacoffee.com/jackcollins" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
