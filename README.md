@@ -11,6 +11,8 @@
 <p>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Amplify&color=222222&logo=AWS+Amplify&logoColor=FF9900&label="></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label="></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YAML&color=CB171E&logo=YAML&logoColor=FFFFFF&label="></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label="></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
@@ -26,15 +28,18 @@
   <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label="></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Zoom&color=0B5CFF&logo=Zoom&logoColor=FFFFFF&label="></a>
   <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=IFTTT&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-McAfee-%23C01818?style=for-the-badge&logo=mcafee&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Citrix&color=452170&logo=Citrix&logoColor=FFFFFF&label="></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=OBS+Studio&color=302E31&logo=OBS+Studio&logoColor=FFFFFF&label="></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SketchUp&color=005F9E&logo=SketchUp&logoColor=FFFFFF&label="></a>
 </p>
 
 ### Operating Systems :
@@ -63,6 +68,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=AllTrails&color=428813&logo=AllTrails&logoColor=FFFFFF&label="></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label="></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Oculus&color=1C1E20&logo=Oculus&logoColor=FFFFFF&label="></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label="></a>
 </p>
 
 ### Support Me :
