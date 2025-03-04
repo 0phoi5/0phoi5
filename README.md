@@ -32,7 +32,6 @@
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Zoom&color=0B5CFF&logo=Zoom&logoColor=FFFFFF&label="></a>
   <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=IFTTT&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"></a>
