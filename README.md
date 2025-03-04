@@ -66,5 +66,5 @@
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label="></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label="></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Oculus&color=1C1E20&logo=Oculus&logoColor=FFFFFF&label="></a>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=">
+  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label="></a>
 </p>
