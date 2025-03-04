@@ -56,6 +56,7 @@
   <a href="mailto:jackcollins1434@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/0phoi5" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jack-collins-632531155/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.buymeacoffee.com/jackcollins" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
 
 ### Hobbies :
@@ -66,9 +67,4 @@
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label="></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Oculus&color=1C1E20&logo=Oculus&logoColor=FFFFFF&label="></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label="></a>
-</p>
-
-### Support Me (clickable) :
-<p>
-  <a href="https://www.buymeacoffee.com/jackcollins" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 </p>
