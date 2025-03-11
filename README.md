@@ -4,6 +4,7 @@
   <a href="#"><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label="></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Checkmk&color=222222&logo=Checkmk&logoColor=15D1A0&label="></a>
+  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
 
 ### Additional Skills :
@@ -30,7 +31,6 @@
   <a href="#"><img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label="></a>
   <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Zoom&color=0B5CFF&logo=Zoom&logoColor=FFFFFF&label="></a>
-  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=IFTTT&logoColor=white"></a>
