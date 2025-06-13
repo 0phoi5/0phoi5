@@ -1,3 +1,5 @@
+<img src="https://images.credly.com/size/340x340/images/6f224283-bbe7-4669-8663-d8050b571264/image.png" width="150" height="150"/>
+
 ### Core Skills :
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
