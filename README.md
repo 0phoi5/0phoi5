@@ -51,11 +51,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/ServiceNow-00C6AE?style=for-the-badge&logo=servicenow&logoColor=white"/></a>
 
-  <!-- Productivity -->
+  <!-- AI -->
   <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Motion-FF4154?style=for-the-badge&logo=kinsta&logoColor=white"/></a>
-
-  <!-- AI / ML / Creative -->
   <a href="#"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Gamma-000000?style=for-the-badge&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kohya-222222?style=for-the-badge&logoColor=white"/></a>
