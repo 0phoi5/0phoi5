@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Monitoring-28A745?style=for-the-badge&logo=prometheus&logoColor=white"/>
 </p>
 
-### Additional Skills :
+### Additional :
 <p>
   <!-- OS / Platforms -->
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
