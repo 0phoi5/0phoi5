@@ -1,4 +1,7 @@
+<!-- <p>
+<img src="https://images.credly.com/size/340x340/images/eb876a27-49d1-4644-a602-abfc74e084f0/CompTIA_Linux_2B.png" width="150" height="150"/>   
 <img src="https://images.credly.com/size/340x340/images/6f224283-bbe7-4669-8663-d8050b571264/image.png" width="150" height="150"/>
+</p> -->
 
 ### Core Skills :
 <p>
