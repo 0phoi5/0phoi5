@@ -8,7 +8,7 @@
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=iCloud&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Patching-4CAF50?style=for-the-badge&logo=linux&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Monitoring-183A61?style=for-the-badge&logo=prometheus&logoColor=white"/></a>
 </p>
@@ -22,11 +22,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 
   <!-- Cloud & Infra -->
-  <a href="#"><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=iCloud&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=iCloud&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge&logo=iCloud&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=iCloud&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=iCloud&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Red_Hat_Satellite-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
 
