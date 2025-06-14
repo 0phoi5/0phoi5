@@ -62,10 +62,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Motion-FF4154?style=for-the-badge&logo=kinsta&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Gamma-000000?style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kohya-222222?style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Musubi_Tuner-302E31?style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Fooocus-007ACC?style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/FramePack-6A5ACD?style=for-the-badge&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kohya-222222?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Musubi_Tuner-302E31?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Fooocus-007ACC?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/FramePack-6A5ACD?style=for-the-badge&logo=python&logoColor=white"/></a>
 
   <!-- Virtualisation & Visual Tools -->
   <a href="#"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
