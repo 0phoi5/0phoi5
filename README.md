@@ -10,7 +10,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=iCloud&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Patching-4CAF50?style=for-the-badge&logo=linux&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Monitoring-183A61?style=for-the-badge&logo=checkmk&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vulnerability%20Management-183A61?style=for-the-badge&logo=linux&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Monitoring-15D1A0?style=for-the-badge&logo=checkmk&logoColor=white"/></a>
 </p>
 
 ### Additional :
