@@ -68,13 +68,15 @@
   <a href="#"><img src="https://img.shields.io/badge/Fooocus-007ACC?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/FramePack-6A5ACD?style=for-the-badge&logo=python&logoColor=white"/></a>
 
-  <!-- Virtualisation & Visual Tools -->
+  <!-- Virtualisation -->
+  <a href="#"><img src="https://img.shields.io/badge/Citrix%20Workspaces-1572B6?style=for-the-badge&logo=citrix&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VMware%20vSphere-222222?style=for-the-badge&logo=vmware&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
+
+  <!-- Misc -->
   <a href="#"><img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/></a>
-
-  <!-- Learning / Labs -->
   <a href="#"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=white"/></a>
 </p>
 
