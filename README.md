@@ -1,5 +1,6 @@
 <p>
-<img src="https://github.com/0phoi5/jackcollins.me.uk/blob/master/static/images/Linux+-png.png" width="150" height="150"/>   
+<img src="https://github.com/0phoi5/jackcollins.me.uk/blob/master/static/images/Linux+-png.png" width="150" height="150"/>
+<!-- <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="150" height="150"/> -->
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150"/>
 <!-- <img src="https://images.credly.com/size/340x340/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" width="150" height="150"/> -->
 <img src="https://images.credly.com/size/340x340/images/6f224283-bbe7-4669-8663-d8050b571264/image.png" width="150" height="150"/>
